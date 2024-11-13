@@ -70,7 +70,7 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <strong><em>⚡️Splash Screens</em></strong></h3>
 </summary>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="Splash Screen0.jpg"  style="width: 40%;">
+    <img src="/Simulator Screenshot - iPhone 15 Pro Max - 2024-04-28 at 11.07.12.png"  style="width: 40%;">
      <img src="screenshots/Splash Screen OnBoarding/SplashScreen.jpg"  style="width: 40%;">
     <img src="screenshots/Splash Screen OnBoarding/onboard1.jpg" style="width: 30%;">
      <img src="screenshots/Splash Screen OnBoarding/onboard2.jpg" style="width: 30%;">
